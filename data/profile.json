@@ -26,18 +26,6 @@
       {
         "name": "Mongodb",
         "logo": "https://github.com/ThiagoCaitanol/portfolio/blob/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "MySQL",
-        "logo": "https://github.com/ThiagoCaitanol/portfolio/blob/main/data/imgs/mysql.png"
-      },
-      {
-        "name": "AWS",
-        "logo": "https://github.com/ThiagoCaitanol/portfolio/blob/main/data/imgs/aws.png"
-      },
-      {
-        "name": "Docker",
-        "logo": "https://github.com/ThiagoCaitanol/portfolio/blob/main/data/imgs/docker.png"
       }
     ],
     "softSkills": [
