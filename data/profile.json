@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Thiago Caitano",
+  "photo": "https://avatars.githubusercontent.com/u/97484414?s=400&u=419fb8f3998066ee03306d4e995e2a76f2c1e0a8&v=4",
+  "job": "Freelacer",
+  "location": "Cidade Ocidental - GO",
+  "phone": "(61) 99992-7907",
+  "email": "thiago.caitanov@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -20,8 +20,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Spring",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       },
       {
         "name": "Mongodb",
@@ -43,18 +43,17 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex consumindo os dados da pokeApi",
+      "url": "https://github.com/ThiagoCaitanol/pokedex-pokeApi",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Clone estatico da página HBOMAX",
+      "url": "https://github.com/ThiagoCaitanol/cloning-hbomax",
       "github": true
     }
   ],
