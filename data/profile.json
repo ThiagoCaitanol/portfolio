@@ -52,12 +52,12 @@
   "portfolio": [
     {
       "name": "Criação de uma Pokedex consumindo os dados da pokeApi",
-      "url": "https://github.com/ThiagoCaitanol/pokedex-pokeApi",
+      "url": "https://thiagocaitanol.github.io/pokedex-pokeApi/",
       "github": true
     },
     {
       "name": "Clone estatico da página HBOMAX",
-      "url": "https://github.com/ThiagoCaitanol/cloning-hbomax",
+      "url": "https://thiagocaitanol.github.io/cloning-hbomax/",
       "github": true
     }
   ],
